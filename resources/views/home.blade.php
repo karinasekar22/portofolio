@@ -14,6 +14,10 @@
     @include('partials.hero')
     @include('partials.about')
     @include('partials.portfolio')
+    @include('partials.clients')
+    @include('partials.blog')
+    @include('partials.contact')
+    @include('layouts.footer')
     <script>
         feather.replace();
     </script>

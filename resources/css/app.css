@@ -18,7 +18,7 @@
 @utility container {
     margin-inline: auto;
     /* Untuk center */
-    padding-inline: 1rem;
+    padding-inline: 1.5rem;
     /* Untuk padding horizontal (16px) */
 
     /* Contoh: padding berbeda di breakpoint tertentu */
